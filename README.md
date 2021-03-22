@@ -1,6 +1,6 @@
-# flutter_login_ui
+# Flutter Login UI
 
-A new Flutter application.
+<img src="https://user-images.githubusercontent.com/43778520/112002597-6821c980-8b63-11eb-8638-b064fda30509.png" width="300px">
 
 ## Getting Started
 
